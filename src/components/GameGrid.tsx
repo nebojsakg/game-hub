@@ -1,6 +1,5 @@
 import React from 'react';
 import {SimpleGrid, Text} from "@chakra-ui/react";
-import {Simulate} from "react-dom/test-utils";
 import useGames from "../hooks/useGames";
 import GameCard from "./GameCard";
 
